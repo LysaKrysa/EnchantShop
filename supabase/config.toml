@@ -1,0 +1,7 @@
+project_id = "kxstkquvpjpisqjkrkpv"
+
+[functions.send-order-webhook]
+verify_jwt = false
+
+[functions.admin-orders]
+verify_jwt = false

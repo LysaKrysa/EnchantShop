@@ -1,0 +1,13 @@
+/*
+  Reset Vite starter styles.
+  This app uses Tailwind + semantic tokens for layout/typography.
+*/
+
+#root {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: initial;
+}
+
